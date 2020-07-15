@@ -20,9 +20,9 @@ Hello, I am **Harsh Patel** pursuing Master of Applied Computing at the Universi
 
 - :rocket: What I want to do: Learn and master technologies that can change our way of thinking and living:kissing:
 
-- :tada: The best project: ![Infant-Informant](https://github.com/HarshPatel270698/Infant-Informant-capstone-project)
+- :tada: The best project: [Infant-Informant](https://github.com/HarshPatel270698/Infant-Informant-capstone-project)
 
-- 👯 I’m looking to collaborate on: ![PFetch](https://github.com/HarshPatel270698/PFetch)
+- 👯 I’m looking to collaborate on: [PFetch](https://github.com/HarshPatel270698/PFetch)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-patel-270698/) [Facebook](https://www.facebook.com/harsh270698/)
 
